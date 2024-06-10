@@ -1,0 +1,26 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore other common files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.DS_Store
+.env
+.idea/
+.vscode/
+*.log
+*.pot
+*.mo
+*.swp
+*.swo
+*.bak
+*.tmp
+*.old
+*.orig
+*.save
+*.idb
+*.DS_Store
+*.iml
